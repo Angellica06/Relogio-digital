@@ -15,7 +15,7 @@ function carregar() {
       img.src = 'imagens/fotomanhã.jpg'
       document.body.style.background = '#e2cd9f'
 
-    } else if(hora >= 12 && hora <= 18) {
+    } else if(hora >= 12 && hora <= 17) {
       img.src = 'imagens/fototarde.jpg'
       document.body.style.background = '#b9846f'
 
