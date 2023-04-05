@@ -1,0 +1,51 @@
+body{
+    background: rgb(119, 212, 225);
+    font: normal 15pt Arial;
+  }
+  
+  header {
+    color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  section{
+    background: rgb(221, 218, 218);
+    color: black;
+    border-radius: 10px;
+    padding: 20px;
+    width: 600px;
+    margin: auto;
+    box-shadow: 9px 9px 10px rgba(0, 0, 0, 0.425);
+    font-size: larger;
+  }
+  
+  div{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 8px;
+  }
+  
+  #msg{
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.430);
+    background: rgba(185, 185, 180, 0.877);
+    border-radius: 10px;
+    width: 180px;
+    margin: auto;
+    font-family: 'Orbitron', sans-serif;
+  }
+  
+  img {
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+  }
+  
+  footer{
+    color: white;
+    font-style: italic;
+    text-align: center;
+  }
+  
